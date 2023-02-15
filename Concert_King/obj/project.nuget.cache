@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkpaOaM/Ib1bUoNyL0iaEv3soTWDIJgkJ+qC40mWwy3QOxfhew88Mf4zE6lb8hXUpeggOul5Gru0BLUjyzPQDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\Concert_King\\Concert_King\\Concert_King.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
